@@ -1,0 +1,10 @@
+{
+  "book": {
+    "name": "Circuit design",
+    "author": [
+      "Horoviz",
+      "Hill"],
+    "publishing": "Moskva",
+    "page": 350
+  }
+}
